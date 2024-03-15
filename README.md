@@ -9,7 +9,7 @@
 - https://trackwallet-me.vercel.app (hiatus in dev)
 - https://crud-infinite-scroll.vercel.app
 
-_Some apps might break due to an inactive database set by the hosting provider during periods of idleness._
+_Some apps might break due to an inactive database set by the hosting provider during periods of idleness. Kindly head to its repository to test locally._
 
 
 <!--
