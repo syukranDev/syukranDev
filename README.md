@@ -1,14 +1,15 @@
 ### Hi there 👋
+_Main Tech Stack: NodeJS, React Native, NextJS, SQL, ORM Sequelize/Prisma, HTML/CSS/Pug_
 
-### Projects made for fun (when the mood kicks in lol) (current state: hiatus)
+#### Some playground projects (hiatus):
 
 - https://syukrandev.vercel.app
 - https://note-sass.vercel.app 
 - https://jom-mancing.vercel.app
 - https://trackwallet-me.vercel.app 
-- https://crud-infinite-scroll.vercel.app
+- more in repositories..
 
-_Some apps might break due to an inactive database set by the hosting provider during periods of idleness. Kindly head to its repository to test locally._
+_Some apps might break due to an inactive database set by the hosting provider during periods of idleness. Kindly head to its repository to explore yourself._
 
 
 <!--
