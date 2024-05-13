@@ -9,8 +9,6 @@ _Main Tech Stack: NodeJS, React Native, NextJS, SQL, ORM Sequelize/Prisma, HTML/
 - https://trackwallet-me.vercel.app 
 - more in repositories..
 
-_Some apps might break due to an inactive database set by the hosting provider during periods of idleness. Kindly head to its repository to explore yourself._
-
 
 <!--
 **syukranDev/syukranDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
