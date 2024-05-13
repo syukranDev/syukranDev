@@ -1,12 +1,11 @@
 ### Hi there 👋
 
-### Projects made for fun (when the mood kicks in lol)
+### Projects made for fun (when the mood kicks in lol) (current state: hiatus)
 
 - https://syukrandev.vercel.app
-- http://103.75.190.201/ (inventoryApps)
 - https://note-sass.vercel.app 
-- https://jom-mancing.vercel.app (hiatus in dev)
-- https://trackwallet-me.vercel.app (hiatus in dev)
+- https://jom-mancing.vercel.app
+- https://trackwallet-me.vercel.app 
 - https://crud-infinite-scroll.vercel.app
 
 _Some apps might break due to an inactive database set by the hosting provider during periods of idleness. Kindly head to its repository to test locally._
