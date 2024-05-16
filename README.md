@@ -1,10 +1,10 @@
 ### Hi there 👋
 _Main Tech Stack: NodeJS, React Native, NextJS, SQL, ORM Sequelize/Prisma, HTML/CSS/Pug_
 
-#### Some playground projects (hiatus):
+#### Some playground projects (hiatus @ not-fully-functioning anymore):
 
 - https://syukrandev.vercel.app
-- https://note-sass.vercel.app 
+- https://note-sass.vercel.app (<a href="https://github.com/syukranDev/whattodotodayhuh">mobile version</a>)
 - https://jom-mancing.vercel.app
 - https://trackwallet-me.vercel.app 
 - more in repositories..
